@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 5px;
+}
+
+#special-paragraph {
+    font-weight: bold;
+    color: green;
+}
+
+a[target="_blank"] {
+    color: purple;
+    text-decoration: none;
+}
